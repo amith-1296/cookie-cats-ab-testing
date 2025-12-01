@@ -202,7 +202,7 @@ The notebook includes:
 ## 11. Author & License
 
 **Author:** Data Analyst  
-**Date:** December 2024  
+**Date:** December 2025  
 **License:** MIT
 
 ---
